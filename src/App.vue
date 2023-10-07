@@ -1,9 +1,7 @@
-<!--
-https://eugenkiss.github.io/7guis/tasks/#temp
--->
+
 
 <script setup>
-import { ref } from 'vue'
+
 
 const c = ref(0)
 const f = ref(32)
